@@ -10,7 +10,7 @@
 
 参数支持多个单词，语句
 
-使用：
+usage：
 
 ```
 ./script.sh keyword1 keyword2 paragraph1 paragraph2
