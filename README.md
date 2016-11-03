@@ -1,13 +1,12 @@
 # translate
-shell翻译脚本
+**shell翻译脚本**
 
-利用有道翻译与百度翻译api
+> 利用有道翻译与百度翻译api
 
-有道api:限制每小时1000次以内
+1. 有道api:限制每小时1000次以内
+2. 百度api:当月翻译字符数≤2百万
 
-百度api:当月翻译字符数≤2百万
-
-脚本需要curl和[jq](https://stedolan.github.io/jq/)命令解析json
+*脚本需要curl和[jq](https://stedolan.github.io/jq/)命令解析json*
 
 参数支持多个单词，语句
 
